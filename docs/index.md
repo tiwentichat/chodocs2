@@ -30,8 +30,8 @@ hero:
 ---
 
 
-<!--
-  
+
+
 <script setup>
 import {
   VPTeamPage,
@@ -68,5 +68,6 @@ const members = [
   />
 </VPTeamPage>
 
+<!--
   <HomeContributors/>
 -->
