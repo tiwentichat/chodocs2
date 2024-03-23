@@ -39,7 +39,7 @@ export default withPwa(defineConfig({
     },
     lastUpdatedText: '最后一次更新于',
     footer: {
-      message: `祝你拿到称心如意的Offer`,
+      message: `祝你拿到称心如意的Offer！`,
       copyright: `<a target="_blank" href="https://getoffer.help">GetOffer.Help</a> | 版权所有 © ${new Date().getFullYear()} `,
     },
     
