@@ -42,12 +42,11 @@ import { icons } from './socialIcons';
 
 const members = [
   {
-    avatar: 'https://www.github.com/getoffehelp.png',
+    
     name: 'GetOffer.Help',
-    title: 'Get Your Offer',
-    desc: 'Get Your Offer<br/>Creator @ <a href="https://github.com/getofferhelp/getofferhelp" target="_blank">GetOffer.Help</a>',
-    links: [
-      { icon: 'github', link: 'https://github.com/getofferhelp' },
+    
+    desc: 'Get Your Offer<br/>Creator @ <a href="https://GetOffer.Help" target="_blank">GetOffer.Help</a>',
+    
       
     ]
   },
