@@ -17,10 +17,10 @@ hero:
   actions:
     - theme: alt
       text: 写简历
-      link: /guide
+      link: https://cv.GetOffer.help
     - theme: brand
       text: 面试
-      link: /interview
+      link: https://selfview.GetOffer.Help
     - theme: alt
       text: 谈Offer
       link: /program/
