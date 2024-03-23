@@ -8,9 +8,9 @@ titleTemplate: GetOffer.Help的内容发布
 
 hero:
   name: GetOffer.Help
-  text: "GetOffer.Help document"
+  text: "助力拿到每一个Offer"
   tagline: |
-    GetOffer.Help的内容：写简历、面试、谈Offer
+    写简历、面试自测、谈Offer
   image:
     src: /logo.png
     alt: GetOffer.Help 
