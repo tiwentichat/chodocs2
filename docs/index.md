@@ -46,10 +46,7 @@ const members = [
     name: '期待',
     title: '一切顺利',
     desc: '如果拿到Offer的话，就<br/>欣赏 <a href="https://yanhua.getoffe.help" target="_blank">美丽的烟花</a>',
-    links: [
-      { icon: 'github', link: 'https://github.com/getofferhelp' },
-      
-    ]
+    
   },
   
 ]
