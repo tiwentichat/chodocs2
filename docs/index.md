@@ -24,22 +24,8 @@ hero:
     - theme: alt
       text: 谈Offer
       link: /program/
-features:
-  - icon: 📋
-    title: 面试自测：怎样推销自己
-    details: 海量前端面试问题解答，一站式阅读体验。
-    link: /interview/
-    linkText: 开始刷题
-  - icon: 💬
-    title: 写简历指南
-    details: 同步 B 站视频，文档用于巩固知识。
-    link: /program/npm-package/
-    linkText: 编程学习
-  - icon: 📓
-    title: 谈Offer
-    details: 不再畏惧面试算法，提供刷题路线。
-    link: /algorithm/guide/
-    linkText: 开始刷题
+
+
   
 ---
 

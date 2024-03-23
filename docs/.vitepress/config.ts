@@ -39,42 +39,10 @@ export default withPwa(defineConfig({
     },
     lastUpdatedText: '最后一次更新于',
     footer: {
-      message: `用心去做高质量的专业前端内容网站，欢迎 <a target="_blank" style="color: var(--vp-c-brand)" href="${github}">star ⭐</a> 让更多人发现`,
-      copyright: `<a target="_blank" href="${github}/blob/main/LICENSE">MIT License</a> | 版权所有 © 2022-${new Date().getFullYear()} <a target="_blank" href="${github}">Chocolate and ChoDocs contributors</a>`,
+      message: `祝你拿到称心如意的Offer`,
+      copyright: `<a target="_blank" href="https://getoffer.help">GetOffer.Help</a> | 版权所有 © ${new Date().getFullYear()} `,
     },
-    nav: [
-      { text: '💭 学习圈子', link: '/zsxq' },
-      {
-        text: '🔥 专栏',
-        items: [
-          { text: '🔥 前端算法', link: '/algorithm/guide/' },
-          { text: '🔥 设计模式', link: '/patterns/guide/' },
-          { text: '📋 面试大全', link: '/interview/' },
-        ],
-      },
-      {
-        text: '编程',
-        items: [
-          { text: '⭐ 资源导航', link: '/favorites' },
-          { text: '💻 编程学习', link: '/program/' },
-          { text: '🔧 编程工具', link: '/tool/' },
-        ],
-      },
-      {
-        text: '洞见',
-        items: [
-          { text: '✏️ 随笔', link: '/essay/' },
-          { text: '🌱 青葱岁月', link: '/green/ch' },
-        ],
-      },
-      {
-        text: `v${docsVersion}`,
-        items: [
-          { text: '🧱 参与贡献', link: '/contributing' },
-          { text: '🎉 更新日志', link: `${github}/releases` },
-        ],
-      },
-    ],
+    
     // algolia搜索
     search: {
       provider: 'algolia',
