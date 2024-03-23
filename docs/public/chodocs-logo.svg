@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="108px" height="144px" viewBox="0 0 108 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>logo</title>
-    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="画板" transform="translate(-46.000000, -28.000000)">
-            <g id="logo" transform="translate(46.000000, 28.000000)">
-                <path d="M72,0 L84,0 C97.254834,0 108,10.745166 108,24 L108,48 L48,48 L48,84 C48,90.627417 53.372583,96 60,96 L108,96 L108,96 L108,120 C108,133.254834 97.254834,144 84,144 L24,144 C10.745166,144 0,133.254834 0,120 L0,72 L72,0 Z" id="路径" fill="#0000FB"></path>
-                <path d="M72,0 L72,48 C72,61.254834 61.254834,72 48,72 L0,72 L0,72 L72,0 Z" id="矩形备份-5" fill="#03CBFC"></path>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><g fill="none" stroke="#db4848" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 22h14a2 2 0 0 0 2-2V7l-5-5H6a2 2 0 0 0-2 2v2"/><path d="M14 2v4a2 2 0 0 0 2 2h4m-9.71 2.7a2.43 2.43 0 0 0-2.66-.52c-.29.12-.56.3-.78.53l-.35.34l-.35-.34a2.43 2.43 0 0 0-2.65-.53c-.3.12-.56.3-.79.53c-.95.94-1 2.53.2 3.74L6.5 18l3.6-3.55c1.2-1.21 1.14-2.8.19-3.74Z"/></g></svg>
