@@ -42,9 +42,10 @@ import { icons } from './socialIcons';
 
 const members = [
   {
-    name: 'GetOffer.Help',
-    title: 'Get Your Offer',
-    desc: 'Get Your Offer<br/>Creator @ <a href="https://github.com/getofferhelp/getofferhelp" target="_blank">GetOffer.Help</a>',
+    avatar: 'https://www.github.com/getoffehelp.png',
+    name: '期待',
+    title: '一切顺利',
+    desc: '如果拿到Offer的话，就<br/>欣赏 <a href="https://yanhua.getoffe.help" target="_blank">美丽的烟花</a>',
     links: [
       { icon: 'github', link: 'https://github.com/getofferhelp' },
       
@@ -59,7 +60,7 @@ const members = [
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
-      核心成员介绍
+      延伸
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
