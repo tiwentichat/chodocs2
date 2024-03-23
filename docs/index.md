@@ -43,22 +43,40 @@ features:
   
 ---
 
-<style>
-/*爱的魔力转圈圈*/
-.m-home-layout .image-src:hover {
-  transform: translate(-50%, -50%) rotate(666turn);
-  transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1);
-}
+<script setup>
+import {
+  VPTeamPage,
+  VPTeamPageTitle,
+  VPTeamMembers
+} from 'vitepress/theme';
+import { icons } from './socialIcons';
 
-.m-home-layout .details small {
-  opacity: 0.8;
-}
+const members = [
+  {
+    avatar: 'https://www.github.com/getofferhelp.png',
+    name: 'GetOffer.Help',
+    title: 'Get Your Offer',
+    desc: 'Get Your Offer<br/>Creator @ <a href="https://github.com/getofferhelp/getofferhelp" target="_blank">GetOffer.Help</a>',
+    links: [
+      { icon: 'github', link: 'https://github.com/getofferhelp' },
+      
+    ]
+  },
+  
+]
+</script>
 
-.m-home-layout .item:last-child .details {
-  display: flex;
-  justify-content: flex-end;
-  align-items: end;
-}
-</style>
+<DataPanel/>
 
+<VPTeamPage>
+  <VPTeamPageTitle>
+    <template #title>
+      核心成员介绍
+    </template>
+  </VPTeamPageTitle>
+  <VPTeamMembers
+    :members="members"
+  />
+</VPTeamPage>
 
+<HomeContributors/>
