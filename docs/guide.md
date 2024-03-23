@@ -54,7 +54,7 @@ author: "GetOfferHelp"
 
 相比Word文档，更推荐大家发送简历时使用PDF格式，PDF在打开预览的效果以及避免被修改方面，都比word更适合阅读
 
-当然，还有另一个页面：[CV2.GetOffer.Help](https://CV2.GetOffer.Help/) 
+当然，还有另一个页面：https://CV2.GetOffer.Help
 
 和刚才那个界面不同，看自己所需
 
