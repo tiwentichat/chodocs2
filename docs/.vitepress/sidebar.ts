@@ -59,39 +59,12 @@ export default {
           ],
         },
         { text: '资源导航', link: '/favorites' },
-        { text: '编程学习', link: '/program/' },
-        { text: 'Arc 激活码获取', link: '/arc' },
         { text: '2022 年终总结', link: '/2022' },
         { text: '关于 ChoDocs', link: '/chodocs' },
         { text: '参与贡献指南', link: '/contributing' },
       ],
     },
-    {
-      text: '🍎 Next.js 实战',
-      collapsed: false,
-      items: [
-        { text: '添加 sitemap', link: '/nextjs/sitemap/' },
-      ],
-    },
-    {
-      text: '🍏 Vue.js 实战',
-      collapsed: false,
-      items: [
-        { text: '基于 Vue3 后台管理系统', link: '/vuejs/vue3-management-system/' },
-      ],
-    },
-    {
-      text: '📘 TS 学习',
-      collapsed: false,
-      items: [
-        { text: '导读', link: '/ts/ch' },
-        { text: '环境配置', link: '/ts/ch0' },
-        { text: '基础操作', link: '/ts/ch1' },
-        { text: '工具类', link: '/ts/ch2' },
-        { text: '函数系统', link: '/ts/ch3' },
-        { text: '泛型', link: '/ts/ch4' },
-      ],
-    },
+   
     {
       text: '📝 备忘录',
       collapsed: false,
