@@ -1,9 +1,24 @@
 ---
-author: "Choi Yang"
-contributors: ["HearLing"]
+author: "getoffer.help"
 ---
 
-# 面试
+# GetOffer.Help使用指南
+
+目前GetOffer.Help有两部分： **面试自测** 和 **写简历**
+
+
+其中的重点是：
+
+## 面试自测
+
+
+进入界面后
+
+
+## 写简历
+
+
+
 
 <VideoLink bvId="BV1FY4y1f7nx">还没找到实习的小伙伴看过来，2023 年春招还有机会 | 经验分享，不必焦虑 B 站视频传送门</VideoLink>
 
