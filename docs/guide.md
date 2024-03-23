@@ -1,5 +1,5 @@
 ---
-author: "GetOffer Help"
+author: "GetOffer.Help"
 ---
 
 # GetOffer.Help使用指南
