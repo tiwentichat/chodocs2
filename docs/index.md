@@ -21,9 +21,7 @@ hero:
     - theme: brand
       text: 面试自测
       link: https://selfview.GetOffer.Help
-    - theme: alt
-      text: 谈Offer
-      link: /interview/
+    
 
 
   
