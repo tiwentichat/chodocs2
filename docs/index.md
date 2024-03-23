@@ -10,7 +10,7 @@ hero:
   name: GetOffer.Help
   text: "助力拿到每一个Offer"
   tagline: |
-    写简历、面试自测、谈Offer
+    写简历、面试自测、谈Offer，一个免费平台~
   image:
     src: /logo.png
     alt: GetOffer.Help 
