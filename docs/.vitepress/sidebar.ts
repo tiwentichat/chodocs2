@@ -17,15 +17,85 @@ export default {
             },
           ],
         },
-        
+        {
+          text: '23 年每周学习动态',
+          items: [
+            {
+              text: '内容介绍',
+              link: '/weekly/guide',
+            },
+            {
+              text: '3 月',
+              link: '/weekly/202303',
+            },
+            {
+              text: '4 月',
+              link: '/weekly/202304',
+            },
+            {
+              text: '5 月',
+              link: '/weekly/202305',
+            },
+            {
+              text: '6 月',
+              link: '/weekly/202306',
+            },
+            {
+              text: '7 月',
+              link: '/weekly/202307',
+            },
+            {
+              text: '8 月',
+              link: '/weekly/202308',
+            },
+            {
+              text: '9 月',
+              link: '/weekly/202309',
+            },
+            {
+              text: '10 月',
+              link: '/weekly/202310',
+            },
+          ],
+        },
         { text: '资源导航', link: '/favorites' },
+        { text: 'Arc 激活码获取', link: '/arc' },
         { text: '2022 年终总结', link: '/2022' },
         { text: '关于 ChoDocs', link: '/chodocs' },
         { text: '参与贡献指南', link: '/contributing' },
       ],
     },
-   
-    
+    {
+      text: '🍎 Next.js 实战',
+      collapsed: false,
+      items: [
+        { text: '添加 sitemap', link: '/nextjs/sitemap/' },
+      ],
+    },
+    {
+      text: '🍏 Vue.js 实战',
+      collapsed: false,
+      items: [
+        { text: '基于 Vue3 后台管理系统', link: '/vuejs/vue3-management-system/' },
+      ],
+    },
+    {
+      text: '📘 TS 学习',
+      collapsed: false,
+      items: [
+        { text: '导读', link: '/ts/ch' },
+        { text: '环境配置', link: '/ts/ch0' },
+        { text: '基础操作', link: '/ts/ch1' },
+        { text: '工具类', link: '/ts/ch2' },
+        { text: '函数系统', link: '/ts/ch3' },
+        { text: '泛型', link: '/ts/ch4' },
+      ],
+    },
+    {
+      text: '📝 备忘录',
+      collapsed: false,
+      items: [{ text: 'Git 命令', link: '/memo/git-command/' }],
+    },
   ],
   '/program/': sidebarProgram(),
   '/patterns/': sidebarPartterns(),
