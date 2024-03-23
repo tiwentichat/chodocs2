@@ -80,7 +80,7 @@ export default withPwa(defineConfig({
     ['script', { 'async': '', 'defer': '', 'data-website-id': `${process.env.UMAMI_WEBSITE_ID || ''}`, 'src': `${process.env.UMAMI_ENDPOINT || ''}` }],
   ],
   async buildEnd(siteConfig) {
-    await sitemap({ hostname: 'https://chodocs.cn/' })
+    await sitemap({ hostname: 'https://GetOffer.Help/' })
     await genFeed(siteConfig)
   },
 }))

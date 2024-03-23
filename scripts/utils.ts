@@ -5,7 +5,7 @@ import { $fetch } from 'ohmyfetch'
 
 export const git = Git()
 
-export const DOCS_URL = 'https://chodocs.cn'
+export const DOCS_URL = 'https://getoffer.help'
 
 export const DIR_ROOT = resolve(__dirname, '..')
 export const DIR_SRC = resolve(__dirname, '../docs')
