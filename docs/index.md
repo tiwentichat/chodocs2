@@ -3,11 +3,11 @@ layout: home
 layoutClass: 'm-home-layout'
 
 
-title: Doc-demo
+title: GetOffer.Help
 titleTemplate: GetOffer.Help的内容发布
 
 hero:
-  name: Doc-demo
+  name: GetOffer.Help
   text: "GetOffer.Help document"
   tagline: |
     GetOffer.Help的内容：写简历、面试、谈Offer
@@ -79,4 +79,5 @@ const members = [
   />
 </VPTeamPage>
 
-<HomeContributors/>
+<!--  <HomeContributors/>
+-->
