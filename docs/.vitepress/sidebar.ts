@@ -24,10 +24,10 @@ export default {
     },
     
     {
-      text: '🍏 Vue.js 实战',
+      text: '🍏 写简历',
       collapsed: false,
       items: [
-        { text: '基于 Vue3 后台管理系统', link: '/vuejs/vue3-management-system/' },
+        { text: '基于 Vue3 后台管理系统', link: '/cv/' },
       ],
     },
     
