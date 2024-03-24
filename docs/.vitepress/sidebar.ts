@@ -27,7 +27,7 @@ export default {
       text: '🍏 写简历',
       collapsed: false,
       items: [
-        { text: '基于 Vue3 后台管理系统', link: '/cv/' },
+        { text: '写简历指南', link: '/cv/' },
       ],
     },
     

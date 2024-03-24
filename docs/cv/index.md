@@ -8,7 +8,7 @@ author: "GetOfferHelp"
 ::: tip
 目前文档内容还在不断更新中，敬请收藏一下这个网站： 
 
-[getoffer.help](https://getoffer.help/) 
+https://getoffer.help/
 
 随时发现新功能。
 :::
