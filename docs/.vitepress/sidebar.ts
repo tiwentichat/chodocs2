@@ -8,18 +8,16 @@ export default {
       items: [
         { text: '阅读须知', link: '/guide' },
         {
-          text: '24 年每周学习动态',
+          text: '更新动态',
           items: [
             {
-              text: '开篇',
-              link: '/weekly/2024',
+              text: '起始篇',
+              link: '/weekly/2024-12',
             },
           ],
         },
         
-        { text: '资源导航', link: '/favorites' },
-        { text: '关于 ChoDocs', link: '/chodocs' },
-        { text: '参与贡献指南', link: '/contributing' },
+        
       ],
     },
     
