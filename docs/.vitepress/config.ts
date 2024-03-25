@@ -43,11 +43,9 @@ export default withPwa(defineConfig({
       copyright: `<a target="_blank" href="https://getoffer.help">GetOffer.Help</a> | 版权所有 © ${new Date().getFullYear()} `,
     },
     
-    // algolia搜索
-    search: {
-      provider: 'algolia',
-      options: algolia,
-    },
+    // algolia搜索 删除
+    
+
     sidebar,
     socialLinks,
   },
