@@ -15,15 +15,15 @@ hero:
     src: /logo.png
     alt: GetOffer.Help 
   actions:
-    - theme: alt
-      text: 写简历
-      link: https://cv.GetOffer.help
     - theme: brand
       text: 面试自测
       link: https://selfview.GetOffer.Help
     - theme: alt
+      text: 写简历
+      link: https://cv.GetOffer.help
+    - theme: alt
       text: 使用指南
-      link: /guide
+      link: https://guide.getoffer.help
 
 
   
