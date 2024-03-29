@@ -19,11 +19,9 @@ hero:
       text: 面试自测
       link: https://selfview.GetOffer.Help
     - theme: alt
-      text: 写简历
+      text: 写简历工具
       link: https://cv.GetOffer.help
-    - theme: alt
-      text: 使用指南
-      link: https://guide.getoffer.help
+    
 
 
   
