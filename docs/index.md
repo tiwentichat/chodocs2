@@ -43,7 +43,7 @@ import { icons } from './socialIcons';
 
 const members = [
   {
-    avatar: 'https://www.github.com/getofferhelp.png',
+    avatar: 'https://github.com/tiwentichat/chodocs2/assets/125454744/d72e47d6-1921-4cf4-aa16-95117bf3605d',
     name: '预祝',
     title: '一切顺利',
     desc: '拿到Offer后，就请来<br/>欣赏 <a href="https://yanhua.getoffer.help" target="_blank">美丽的烟花</a>吧！<br/>(记得打开声音~）',
