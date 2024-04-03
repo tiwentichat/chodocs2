@@ -22,7 +22,7 @@ hero:
       text: 面试自测使用指南
       link: https://guide.getoffer.help/selfview
     - theme: alt
-      text: 写简历工具
+      text: PDF简历工具
       link: https://cv.GetOffer.help
     
 
