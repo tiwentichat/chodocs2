@@ -19,8 +19,8 @@ hero:
       text: 面试自测
       link: https://selfview.GetOffer.Help
     - theme: alt
-      text: 面试自测使用指南
-      link: https://guide.getoffer.help/selfview
+      text: 求职信
+      link: https://coverletter.getoffer.help/
     - theme: alt
       text: PDF简历工具
       link: https://cv.GetOffer.help
