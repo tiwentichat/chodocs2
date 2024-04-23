@@ -26,8 +26,29 @@ hero:
       link: https://cv.GetOffer.help
     
 
-
+features:
+  - icon: 💭
+    title: 视频面试自测
+    details: Policy of 144 hour visa free
+    link: https://selfview.GetOffer.Help
+    linkText: 去自测
+  - icon: 🌱
+    title: 求职信
+    details: 求职信，一键生成
+    link: https://coverletter.getoffer.help/
+    linkText: 写，忘情的写！
+  - icon: 📋
+    title: PDF简历
+    details: 快速写PDF简历的模板工具
+    link: https://cv.GetOffer.help
+    linkText: 去写简历
+  - icon: ❤️
+    title: 视频面试自测-使用指南
+    details: 视频面试自测的用法说明
+    link: https://guide.getoffer.help/selfview
+    linkText: 阅读
   
+
 ---
 
 
