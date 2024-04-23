@@ -29,7 +29,7 @@ hero:
 features:
   - icon: 💭
     title: 视频面试自测
-    details: Policy of 144 hour visa free
+    details: 视频模拟面试+AI反馈评价，视频保存下来，方便复盘表现~
     link: https://selfview.GetOffer.Help
     linkText: 去自测
   - icon: 🌱
